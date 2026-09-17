@@ -3,5 +3,5 @@
 
 ### Homework1
 
-[Selection![Alt homework11](./homework/homework1.jpg)
-Sorting](./homework/SelectionSorting.pde)
+[Selfie![Alt homework11](./homework/homework1.png)
+[Yolo](https://youtu.be/6W6x7mNVsWQ)
