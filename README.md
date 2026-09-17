@@ -4,4 +4,6 @@
 ### Homework1
 
 [Selfie](./homework/homework1.png)
+[Selfie](https://youtu.be/oZzQFv_bN24)
+
 [Yolo](https://youtu.be/6W6x7mNVsWQ)
