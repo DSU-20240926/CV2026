@@ -3,5 +3,5 @@
 
 ### Homework1
 
-[Selfie![Alt homework11](./homework/homework1.png)
+[Selfie](./homework/homework1.png)
 [Yolo](https://youtu.be/6W6x7mNVsWQ)
